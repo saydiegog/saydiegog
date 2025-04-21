@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Diego<br>Developer | Problem Solver | Automation Enthusiast<br><br>I write code to build solutions—whether it's automation scripts, full-stack apps, or anything in between. Passionate about learning and turning ideas into reality.<br><br>🔧 Tech & Tools<br>Languages: Python, JavaScript, C#, SQL, HTML/CSS<br><br>Automation: Pandas, OpenPyXL, BeautifulSoup, Selenium<br><br>Web Dev: React, Node.js, REST APIs, MySQL<br><br>Other: Git, WordPress, HubSpot<br><br>🌱 Currently Learning<br>Advanced Python frameworks<br><br>Cloud computing (AWS/GCP)<br><br>DevOps basics<br><br>💡 Projects & Interests<br>Building Python bots for workflow automation<br><br>Highly interested in Data Engineering, Data Analysis
+Hi there 👋 I'm Diego<br>Developer | Problem Solver | Automation Enthusiast<br><br>I write code to build solutions—whether it's automation scripts, full-stack apps, or anything in between. Passionate about learning and turning ideas into reality.<br>🌱 Currently Learning<br>Advanced Python frameworks<br><br>Cloud computing (AWS/GCP)<br><br>Data Engineering Concepts & Tools<br><br>💡 Projects & Interests<br>Building Python bots for workflow automation<br><br>Highly interested in Data Engineering, Data Analysis
 
 
 ## 🌐 Socials:
